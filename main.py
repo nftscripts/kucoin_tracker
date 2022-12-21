@@ -2,6 +2,8 @@ from transactions_parser import Process
 from json import load
 from time import time
 
+# Created by https://t.me/cryptoscripts
+
 with open('config.json', 'r', encoding='utf-8-sig') as file:
     config = load(file)
 
