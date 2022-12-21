@@ -9,3 +9,5 @@
 3. qty - количество токенов на покупку;
 4. В cmd пишем pip install requirements.txt;
 5. Запускаем файл main.py
+
+Связь со мной - @nftseller123
